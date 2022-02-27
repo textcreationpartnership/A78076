@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By reason of the distraction that is in the Romane Empire, these be delivered especially to the emperour, and then also to all other potentates, kings, princes, rulers, governours, and magistrates, in all Europe; who ought to consider, according to conscience, what their office and place is; and not to rule, judge, and domineere, without righteousness, or against God: as hath been done for a long while by the working of Satan in this false Jerusalem: and yet is still so done more and more apparantly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78076</idno>
+            <idno type="STC">Wing B6356</idno>
+            <idno type="STC">Thomason E468_4*</idno>
+            <idno type="STC">ESTC R205323</idno>
+            <idno type="EEBO-CITATION">99864732</idno>
+            <idno type="PROQUEST">99864732</idno>
+            <idno type="VID">116964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116964)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[4*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By reason of the distraction that is in the Romane Empire, these be delivered especially to the emperour, and then also to all other potentates, kings, princes, rulers, governours, and magistrates, in all Europe; who ought to consider, according to conscience, what their office and place is; and not to rule, judge, and domineere, without righteousness, or against God: as hath been done for a long while by the working of Satan in this false Jerusalem: and yet is still so done more and more apparantly.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year. MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy illegible, probably intended to read: "8ber [i.e. October] 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116964:1"/>
+            <pb facs="tcp:116964:1" rendition="simple:additions"/>
+            <p>By Reaſon of the DISTRACTION that is in The Romane Empire, <hi>Theſe be Delivered</hi> Eſpecially to the Emperour, and then alſo to all other <hi>Potentates, Kings, Princes, Rulers, Gover<g ref="char:EOLhyphen"/>nours, and Magistrates, in all Europe;</hi> Who ought to conſider, according to Conſcience, what their Office and Place is; and not to Rule, Judge, and Domineere, without Righteouſneſs, or againſt GOD: as hath been done for a long while</p>
+            <p>By the workings of Satan in this falſe Jeruſalem: and yet is ſtill ſo done more and more apparantly.</p>
+            <p>
+               <hi>Printed in the Year. MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116964:2"/>
+            <pb n="3" facs="tcp:116964:2"/>
+            <p>THere are many within and without the Roman Empire, who aſcribe theſe times of diſtractions, deſolations, and utter de<g ref="char:EOLhyphen"/>ſtructions of Countries and of mankind, both in ſoul and bo<g ref="char:EOLhyphen"/>dy, according to their own affections; and lay the fault thereof ſometime upon this, ſometime upon that cauſe, and every one that is moſt ingaged and intereſſed would ſhift the blame from them<g ref="char:EOLhyphen"/>ſelves; but very few hitherto have been found who have diſcovered the true principal ground from whence theſe diſtractions took their original at the beginning, and have broken forth in ſuch a conſuming fire of the anger of God, that people fall into the hands, and upon the ſwords of one another.</p>
+            <p>For they are but <hi>Petitiones principii,</hi> to alledg one while that the fault is in the contrariety of opinions in Religion, and the various miſun<g ref="char:EOLhyphen"/>derſtandings about reconciliation of matters in Religion; another while, that the fault is in the exorbitancy of this or that perſon, or in the too greedy deſire of ſome to domineer and aſpire to great Dominion: and ſuch ſeeming pretences they propound to be the cauſes of it. But the queſtion ſtill remains to be made, whence the particular cauſes of the ſtrife about opinions in Religion, of that exorbitancy, inſolency, and greedy deſire to domineer, and make all others ſervants and ſlaves to them, hath its original ground? Out of what evil Well or Fountain do theſe deadly poyſonous ſtreams break forth and ſo mightily prevail, to produce ſuch deſtruction and deſolation ſo powerfully; and who, among the children of men, is the chief cauſe thereof?</p>
+            <p>Here, if the Emperor in particular, becauſe of the diſtractions in <hi>Germany,</hi> and every one elſe, rightly conſider and weigh the cauſe in their hearts and conſciences, according to the Teſtimony of God, and the power, and the truth of his Word, without the pre-imagined con<g ref="char:EOLhyphen"/>ceits and humane inventions, they ſhall find no other fundamental cauſe but this, That the ſpirituall Clergy, who uſurpedly ſet up and inſti<g ref="char:EOLhyphen"/>tute themſelves, and elect and chooſe themſelves to be ſuch, are the chief Cauſe of theſe Diſtractions and Confuſions in all Nations.</p>
+            <p>FOr after they had forſaken the Covenant of the ſecond or New Teſtament,<note place="margin">
+                  <hi>Joh</hi> 12.</note> [which teacheth] to walk in the Light according to the Law of the Spirit, which maketh alive in Chriſt Jeſus,<note place="margin">
+                  <hi>Rom.</hi> 8.</note> they blaſ<g ref="char:EOLhyphen"/>phemed
+<pb n="4" facs="tcp:116964:3"/>the way of Truth,<note place="margin">2 <hi>Pet.</hi> 2. <hi>Phil.</hi> 3 1 <hi>Cor.</hi> 3.11 1 <hi>Joh.</hi> 1.24 1 <hi>Tim.</hi> 2 <hi>Hoſ.</hi> 8.10, 12</note> rent and ſeparated themſelves with Schi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Diviſions, and ſo are not united in God; and they being without the ſpiritual Communion which the true faithful Beleevers (through the only Mediator Jeſus Chriſt) ſhould have with God, every one of them, ſome here, ſome there, according to their own pleaſures, have erected or congregated Churches and built Altars of Abominations, <hi>Jer.</hi> 11.13. whereby people, in the inward ground of their Hearts or Conſciences,<note place="margin">
+                  <hi>Mat.</hi> 24 <hi>Eph.</hi> 4. <hi>Col.</hi> 3 <hi>Rom.</hi> 16. <hi>Pſa.</hi> 12.80 1 <hi>Pet.</hi> 5. <hi>Eze.</hi> 34. <hi>Jer.</hi> 8.12 14.23. <hi>Iſ.</hi> 29</note> by breaking the bands of the Peace and of the Love of God, have ſeparated from one another, whereby the vineyard of the Lord muſt needs come to be deſtroyed; whereupon then all the flocks were ſcattered in themſelves by one another and by the faith or belief which they have covenanted and ſworn to keep, are made a prey to people voyd of Conſciences, no better then wilde Beaſts, Murtherers, and Tyrants, for the diſagreeing, diſtracted, and confounded Contentions of the Paſtors and Hirelings, who only ſerve the world and their own bellies,<note place="margin">1 <hi>Tim.</hi> 6. <hi>Joh.</hi> 10. 1 <hi>Joh.</hi> 4 <hi>Phil.</hi> 3. <hi>Rö.</hi> 16. 2 <hi>Pet.</hi> 2 <hi>Pſa.</hi> 12.14. 59. <hi>Col.</hi> 2.</note> and ſeduce many innocent hearts with ſweet words and pleaſing Sermons: And now the people, who walk in their deſtructive ways, in Error and Darkneſs of Conſcience, <hi>Eph.</hi> 4.5. with Hypocritical works, which themſelves have contrived in their reaſon, 2 <hi>Pet.</hi> 2. ac<g ref="char:EOLhyphen"/>cording to the Commandments and Ordinances of Men, will make as if themſelves were excellent, honeſt, pious, holy and righteous. <hi>Man</hi> 7.15, 23.</p>
+            <p>Hereby it is further made known and diſcovered,<note place="margin">2 <hi>Cor.</hi> 11 <hi>Luk.</hi> 17 2 <hi>Cor.</hi> 3.4 1 <hi>Cor.</hi> 4 <hi>Rom.</hi> 1 <hi>Pſa.</hi> 12 2 <hi>Tim.</hi> 3 2 <hi>Pet.</hi> 2 <hi>Mat.</hi> 24 <hi>Mark</hi> 13 1 <hi>Cor.</hi> 6 <hi>Epiſt. Jude. Rom.</hi> 3.5, 6 <hi>Col.</hi> 3 <hi>Rev.</hi> 18 <hi>Iſ.</hi> 13.34.56</note> that it might be conſidered, after what manner Satan hath changed himſelf into an Angel of Light, and hath clothed himſelf with a falſe ſhew, and in and by them hath darkned the Kingdom of God in the hearts and ſouls of o<g ref="char:EOLhyphen"/>ther men, and wholly abrogated the power thereof, 2 <hi>Tim.</hi> 3. And on the contrary hath renewed and ſet up his own Kingdom, the King<g ref="char:EOLhyphen"/>dom of Pride, Subtilty, Craft, Lying, Covetouſneſs, Wrath, Contention, Strife, Murther, Hatred, Malice, Envy, and Eternal Death in the ſin<g ref="char:EOLhyphen"/>ful birth of the Humane Nature; in that they pretend as if they in their contentious and confuſed doings, had full power of the Keyes, or <hi>Ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Divinum</hi> over Heaven, to bring the old <hi>Adam</hi> thither by their word and promiſe, where with they had allured the wicked ſouls. to them; whereupon the abomination of deſolation is come into the holy place, <hi>viz.</hi> into the Humane Soul, wherein there ſhould be a Temple or ha<g ref="char:EOLhyphen"/>bitation of God built and ſet up: from whence, ſuch helliſh fruits of ſin<g ref="char:EOLhyphen"/>ful actions of the old birth have changed it into a Cage of Devils, of all unelean ſpirits and hateful birds which have broke forth from thence,
+<pb n="5" facs="tcp:116964:3"/>and ſo have gotten the opper hand in this world, as is manifeſt,<note place="margin">
+                  <hi>Mat.</hi> 24 <hi>Iſa.</hi> 42.43 2 <hi>Tim.</hi> 3 <hi>Luke</hi> 17.18 <hi>Mat.</hi> 24. <hi>Ro<g ref="char:cmbAbbrStroke">̄</g>.</hi> 1. <hi>Iſ.</hi> 1.3 5.59 4 <hi>Eſd.</hi> 5, 6, 7 8, 9.14, 15, 16 <hi>Jer.</hi> 7.8.9.18 2 <hi>Tim.</hi> 4 <hi>Mat.</hi> 24 <hi>Mark</hi> 13 <hi>Zech.</hi> 13 <hi>Epiſt. Jude.</hi> 2 <hi>Pet.</hi> 2 <hi>Jer.</hi> 5.23 <hi>Eph.</hi> 4 <hi>Mark</hi> 13 1 <hi>Tim.</hi> 1.6</note> &amp; as clear as the Noon day, and long ago foretold by the holy Scripture, and de<g ref="char:EOLhyphen"/>clared by the Word of God, <hi>viz.</hi> That in theſe laſt days horrible times ſhall come, wherein there ſhall be neither Faith, Love, nor Righteouſ<g ref="char:EOLhyphen"/>neſs to be found, but Oppreſſion, Miſchief, all kinds of malice and wickedneſs, undermining crafty cunning ſubtilty and unrighteouſneſs ſhall get the upper hand among the children of men, and deſtroying works of iniquity ſhall get to the higheſt pitch, which yet the Teachers in the outward Temple or in Babel do boaſt in, ſaying, here is Chriſt, or there he is: ſo that if it were poſſible for the Devil, that arch enemy, hereby to ſeduce the Elect of God, and allure them to all wickedneſs, they might be conſtrained to do evil.</p>
+            <p>Now becauſe every-unclean ſpirit of his Crew and Sect, who depend on him, or are addicted to his external matters, is perſwaded and flat<g ref="char:EOLhyphen"/>tereth himſelf, as if, one in this way, another in that way among them, being unregenerated in the ſpirit of his mind, do but uſe their Ceremo<g ref="char:EOLhyphen"/>nies, or follow their Church way, are true Chriſtians: and then accor<g ref="char:EOLhyphen"/>ding to their Scholaſtick doings, people think themſelves bound to maintain their way againſt all other, by the ſword: From thence it is come to paſs,<note place="margin">
+                  <hi>Rev.</hi> 16. <hi>Gal.</hi> 5 4 <hi>Eſd.</hi> 5.9.15.16</note> that for theſe many years the inward fire of the angry wrath of God hath been ſtirred up and kindled in the hearts of thoſe men by the contentions, diſputations, and bitter croakings of Frogs; whereby one People, one Kingdom, County and City ſo furiouſly burn in outward ſtrife and contention, and riſe up againſt another;<note place="margin">2 <hi>Chro.</hi> 15 1 <hi>Cor.</hi> 3. <hi>Iſa.</hi> 42.57. <hi>Mat.</hi> 13. <hi>Tit.</hi> 1 2 <hi>Tim.</hi> 2. <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 3.4. 1 <hi>Cor.</hi> 4 <hi>Eph.</hi> 4 <hi>Heb.</hi> 10. <hi>Col.</hi> 1.3 <hi>Mat.</hi> 5. <hi>Tit.</hi> 2.3. <hi>Pſa.</hi> 10 36.68.80.83 94. <hi>Eph.</hi> 4 <hi>Rom.</hi> 1.3 <hi>Theſ.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2 <hi>Tim.</hi> 2 1 <hi>Joh.</hi> 3.</note> and yet they all boaſt and proclaim, that they do it to defend and protect their Religion, and the glory, and name of God therein, and for the rooting out of wickedneſs, which maketh Satan now laugh in his ſleeve, to ſee that he hath ſet thoſe together by the ears that boaſt themſelves for Chriſtians, in ſuch an unchriſtian, and worſe them beſtial hoſtility, for which they have not the leaſt precept, example, or teſtimony from Chriſt, nor his Apoſtles, or Diſciples, and ſo put them beſide the King<g ref="char:EOLhyphen"/>dom of Grace which ſhould be in their hearts, conſiſting in Faith, Love, Peace, and Unity, Truth, Mercy, and Righteouſneſs. Thus ſubtilly, under colour of an angry zeal and imagination, as if they did God good ſervice thereby in his Kingdom, he ſetteth up Wrath, Anger, Enmity, Pride, Covetouſneſs, Envy, Unrighteouſneſs, and Unmercifulneſs; and ſo by ſtrong deluſions hathled them captive, and intangled them in his fetters and chains, and compelled them to do according to his will and meaning, and that which is according to his diſpoſition and nature;
+<pb n="6" facs="tcp:116964:4"/>which is indeed the abomination of deſolation,<note place="margin">
+                  <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <hi>Mark</hi> 13. <hi>Dan.</hi> 8.9.</note> which is now ſet up in the holy place by the departing and falling away from Chriſt; from hence the abomination is grown, which is now made manifeſt and riſi<g ref="char:EOLhyphen"/>ble to the eyes of the whole world.</p>
+            <p>For all ſuch things done by this or the other party about the outward diſtractions,<note place="margin">2 <hi>Chron.</hi> 15 4 <hi>Eſd.</hi> 9.15. <hi>Ior.</hi> 30. <hi>Syra.</hi> 15.1 <hi>Ioh.</hi> 3.4. <hi>Rev.</hi> 9.17.20 <hi>Ioh.</hi> 8. <hi>Eph.</hi> 4 5. <hi>Pſal.</hi> 36.58.59.64.73 141. 2 <hi>Tim.</hi> 4. <hi>Iohn.</hi> 16. <hi>Neh.</hi> 3. <hi>Zep.</hi> 3. <hi>Ier.</hi> 2.7. <hi>Zach.</hi> 11. <hi>Pſ.</hi> 44.74 <hi>Ezek.</hi> 22. <hi>Ier.</hi> 5.8.18.23. <hi>Rom.</hi> 1. <hi>Acts</hi> 20. <hi>Ezek.</hi> 6.7.8 9.13. <hi>Pſa.</hi> 5.55.58. <hi>Gal.</hi> 5 1 <hi>Iohn</hi> 4. <hi>Pſalm</hi> 144. 1 <hi>Cor.</hi> 13. <hi>Luke</hi> 6.11. <hi>Pſalm</hi> 12.49.109. <hi>I am.</hi> 2.3 4.5 <hi>Ephoſ.</hi> 5. 1 <hi>Iohn</hi> 3. <hi>Gen.</hi> 4. <hi>Rev.</hi> 16.19. <hi>Hebr.</hi> 4.10 <hi>Rom.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note> or cuſtomary committing of wickedneſs, whereby man<g ref="char:EOLhyphen"/>kind is oppreſſed, ſuppreſſed, tormented, vexed, waſted, deſolated and deſtroyed both in ſoul and body: Theſe are not the works of God, who is the fountain of all goodneſs, and is love it ſelf; but they are the fruits of the bottomleſs pit, and workes of the Devil, who is a lyar and a murtherer from the beginning, and the author of all evil and miſchief; who yet under a glorious and holy ſhew, eſpecially in theſe whom the world calleth ſpiritual, with a very fine cunning ſlight of argu<g ref="char:EOLhyphen"/>ment can perſwade Kings, Potentates and Magiſtrates, that they pleaſe God, and do him very acceptable ſervice, when they raiſe ſuch murder<g ref="char:EOLhyphen"/>ing Maſſacres, and bloody Wars; and when diſturbances and tumults are made for the upholding of their unſpiritual affairs, though the poor ſouls thereby come to be torn, murdered and ſlain in a cruel manner, Countries and people miſerably waſted and deſolated, yea brought to utter deſtruction: and when once the burning fire is kindled by their ar<g ref="char:EOLhyphen"/>tificial ſorcery, and more and more inflamed, then he knoweth how to wreſt and pervert the holy Scripture cunningly after his lying manner very peremptorily, and to uſe and turn it to be a cloak to cover his ab<g ref="char:EOLhyphen"/>hominable unrighteøuſneſs, wickedneſs and knavery; whereas the Scripture doth witneſs clearly, that the wicked ways of the blood<g ref="char:EOLhyphen"/>thirſty &amp; deceitful are an abomination unto God, and that they are not of God who do not love their neighbors, &amp; help them in their want, let them boaſt as much as they will of God, and of their works, all is falſe; for though they ſhould ſuffer their bodies to be burned, and give all their goods in alms to thoſe of their own opinion, it is meer hypocriſy: and the works of the deſolation of the poor, needy and afflicted, teſtifie of their malicious, wrathful, envious, bitter and deceitful hearts, and of their ſpirit of darkneſs; and that they are of the number of <hi>Cain,</hi> whoſe works are naught, wicked and abominable, and therefore they always perſecute, deſtroy and ſlay their honeſt brother <hi>Abel:</hi> But ere long they ſhall feel in their hearts the Judgment of the Word of God, which penetrateth through all things as a ſharp two-edged ſword, and judg<g ref="char:EOLhyphen"/>eth and revealeth the thoughts of man: And in the other world they ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſentence of their horrible Judgment;<note place="margin">
+                  <hi>Mat.</hi> 7.25.</note> Depart from me
+<pb n="7" facs="tcp:116964:4"/>ye evil done, I have not ſent you, neither have I known you:<note place="margin">
+                  <hi>Pſalm.</hi> 50. <hi>Luke</hi> 36.12</note> Alſo a<g ref="char:EOLhyphen"/>way from the ye eniſed into everlaſting hell fire, prepared for the Devil and his Angels, ye have eryed Lord, Lord, and have taken my Covenant into your falſe mouths,<note place="margin">
+                  <hi>Mat.</hi> 7.21.25</note> and yet you have not done according to my will; for I have been poor, nalied, hungry, thirſty, ſick, in priſon, and in miſery in my members, and you have not only not adminiſtred to me,<note place="margin">
+                  <hi>Ierem.</hi> 30. <hi>Amos</hi> 5.8. <hi>Mich.</hi> 3.6.</note> or helped me, but you have taken away from me that which was mine own, and men over ſayd me inpriſon, perſecuted hunted, worried and vexed me, and have upheld your unrighteouſneſs and wicked doings, with the ſwear and blood of the poor,<note place="margin">
+                  <hi>Iames</hi> 5.</note> and have made your ſelves fat &amp; fair for the day of ſlanghter, which will come upon you for theſe things.</p>
+            <p>According to this,<note place="margin">2 <hi>Pet.</hi> 3. <hi>Iſaia.</hi> 3.6.8.9.24. <hi>Ierem.</hi> 5.7.9.11.14.16. <hi>Hoſea</hi> 4. <hi>Colloſ.</hi> 2.</note> now every one that is ſubjected under the out<g ref="char:EOLhyphen"/>ward deſolation, and incorporated with at, and is not wilfully hardned and blinded, may very well find, and know well enough in his heart and conſcience, that ſuch abominable and deſtroying works of the preſent deſolation cannot be protected in the ſight of God, the righteous Judg, by an imagined abſolution, or by ſome great commendation, preached in a formons by the <hi>unſpiritual CLERGY,</hi> or ſpiritual, elected and cho<g ref="char:EOLhyphen"/>ſen by themſelves to that office, who teach, that God hath ſervice done him thereby.<note place="margin">
+                  <hi>Heb.</hi> 10.12. <hi>Mat.</hi> 13. <hi>Re.</hi> 14.15.20. <hi>Mala.</hi> 4. <hi>Epiſt. Iude. Eph.</hi> 2. <hi>Col.</hi> 1 <hi>Rev.</hi> 19.20 <hi>Rom.</hi> 1. <hi>Zeph.</hi> 3. <hi>Iohn</hi> 5. <hi>Mat.</hi> 13.23. <hi>Ezek.</hi> 13. 2 <hi>Pet.</hi> 2, <hi>Mat.</hi> 7. <hi>Mat.</hi> 3. <hi>Ia.</hi> 5 <hi>Mich.</hi> 3</note>
+            </p>
+            <p>For in this ſo long appointed and denounced day of harveſt, wherein the ſentence of God ſhall be revealed, and the books of the conſciences of every one ſhall be opened, 4. <hi>Eſdras</hi> 6.16. God will ſend down afar other kind of Judgment upon the unbelieving and ungodly hypo<g ref="char:EOLhyphen"/>crites, ſcorners and deſpiſers, then the unſpiritual or fleſhly dreamers ex<g ref="char:EOLhyphen"/>pect, who inſtead of the Kingdom of Grace, or of the heavenly eſſenti<g ref="char:EOLhyphen"/>adity, into which the faithful ſhould be ingraſſed by the redemption of Chriſt, they have ſet up and propagated to the Kingdom of the Devil, and of all diſturbance, of anger, contention and diviſion, of hatred, envy and bitterneſs by their own appropriated and uſurped authority, which in a proud: ſta<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y manner, <hi>Iſai</hi> 28. they all for their hypocriſy and lyes uphold which Kangdom or darknes they alſo now wil deſend and main<g ref="char:EOLhyphen"/>tain by thoſe who follow after their deſtruction in the broad way, and are bewitched by them and their falſe ſpiritual ſhew, wherein they ſet forth themſelves among them, with the ſtrength of the Land, <hi>viz.</hi> that which they get by hook and by crook from the poor people.</p>
+            <p>But ſeeing by this ſo deſperate, yea deviliſh a purpoſe,<note place="margin">
+                  <hi>Rev.</hi> 13. <hi>Rom.</hi> 14. <hi>Dan.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</note> the Kingdom of God is not only hindred, which is righteouſneſs, peace, and joy in the Holy Ghoſt, on which the univerſal, temporal and eternal welfare of
+<pb n="8" facs="tcp:116964:5"/>mankind doth depend;<note place="margin">
+                  <hi>Luke</hi> 17. <hi>Iſai.</hi> 49.51 2 <hi>Tim.</hi> 3.4 <hi>Rev.</hi> 6. <hi>Pſalm</hi> 12.</note> but Chriſt alſo in his members is put to open ſhame, about the knowledg and profeſſion of the Word, or holy Name of God, and they are hated and perſecuted for the truths ſake; and for that cauſe, from the beginning to this time, ſo many witneſſes of God have been in moſt lamentable manner condemned and put to death; and the poor people are not only thus deſolated, but by the inſtigation of ſuch ſorcerers,<note place="margin">
+                  <hi>Ezech.</hi> 13</note> 
+               <hi>Malachi</hi> 3. Every one of whom will preſerve and defend his own by that means:<note place="margin">
+                  <hi>Iames</hi> 2.</note> they are in many places and Countries moſt un<g ref="char:EOLhyphen"/>mercifully, tyrannically, and almoſt utterly deſtroyed, and rooted out with their own ſweat and blood,<note place="margin">
+                  <hi>Pſa.</hi> 52.109</note> which theſe filthy men devour and gluttonize withall,<note place="margin">2 <hi>Pet.</hi> 2.</note> wherewith they patch and ſtitch to their <hi>Babell</hi> thoſe who never deſire to return to God, that they may thereby uphold the Kingdom of darkneſs,<note place="margin">
+                  <hi>Rev.</hi> 16.20</note> wherein one man is become a Devil to ano<g ref="char:EOLhyphen"/>ther;<note place="margin">
+                  <hi>Mark</hi> 13.</note> therefore it ſhall be judged in ſuch a manner, that not one ſtone of this falſe <hi>Jeruſalem</hi> will be left upon another. <hi>Mat.</hi> 24.</p>
+            <p>For the day of the Vengeance of God,<note place="margin">2 <hi>Theſ.</hi> 1. <hi>Luke</hi> 18.21 <hi>Ieramiah</hi> 25 1 <hi>Cor.</hi> 3 <hi>Ep. Iude. Pſalm</hi> 14. <hi>Iſaiah</hi> 52. 2 <hi>Cor.</hi> 11. <hi>Ezek</hi> 22 <hi>Iſaiah</hi> 28. <hi>Rev.</hi> 20 <hi>Acts</hi> 20. <hi>Mat.</hi> 7. <hi>Iohn</hi> 10. <hi>Titus</hi> 1. <hi>Ezek.</hi> 13 <hi>Deu.</hi> 1.10.17 <hi>Syrach.</hi> 10. <hi>Mich.</hi> 7. <hi>Pſal.</hi> 58.92. <hi>Ier.</hi> 5.10. 4 <hi>Eſd.</hi> 11.12.15 <hi>Mich.</hi> 7.6. <hi>Rev.</hi> 16.</note> 
+               <hi>Iſa.</hi> 61.63. for the deliver<g ref="char:EOLhyphen"/>ance of his Elect, ſhall begin or break forth with the overthrow and de<g ref="char:EOLhyphen"/>ſtruction of the glorious building of the Paſtors or Shepheards, which every one hath heaped to himſelf, 2 <hi>Tim.</hi> 4. in his own Religion, Sect or Schiſm, 2 <hi>Pet.</hi> 2. who do nothing but devour the people, to nouriſh and maintain themſelves; they have a long time blaſphemed the Name of God, as to the redemption of <hi>Sion,</hi> and have moſt of all chiefly with-ſtood the ſervants and witneſſes thereof for the truths ſake, 2 <hi>Tim.</hi> 3. whom God hath a long time winked at, and their murdering of bodies and ſouls, which chiefly for their deceit ſake in all places and Countries, hath been exceedingly practiſed, and yet have been abſolved <hi>Ep. Iud.</hi> by the falſe, theeviſh office of the keys of thoſe horrible devouring wolves and hirelings, for their bellies ſake, their filthy lucre, a bit of bread, and for a handful of barly.</p>
+            <p>But being the office of Judgment, Rule and Government here upon earth doth nor belong to man, but to the Lord of Lords, and to God the ſupream Judg, <hi>Wiſdom</hi> 6. And being it doth not belong to any Ruler or Magiſtrate to domineer according to their own perverſe wills and pleaſures in the world, therefore it is fit that the Potentates ſhould know the ways of the Lord, and the Laws and Rights of their God; as in particular, becauſe of the diſtractions in <hi>Germany,</hi> the Emperor, and all other Potentates, Kings, Princes and Judges, who would avoyd the remaining vials, or woes and plagues of the anger of God, ſhould have long ago conſidered what they had to do in theſe ſo long continu<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:116964:5"/>great miſerles and warlike diſtractions,<note place="margin">
+                  <hi>Luke</hi> 21. <hi>Pſal.</hi> 2.76. <hi>Nahem.</hi> 3. <hi>Zach.</hi> 11. <hi>Pſal.</hi> 12.94. <hi>Iſa.</hi> 52. <hi>Rev.</hi> 20. <hi>Ezek.</hi> 13 1 <hi>Tim.</hi> 4. 4. <hi>Eſd.</hi> 15.16 2 <hi>Theſ.</hi> 2. <hi>Rom.</hi> 9.11. <hi>Ier.</hi> 30.50.51. <hi>Iſa.</hi> 13.14.30.</note> by which Satan is altogether let looſe with raging and raving fury, murdering, ſtealing, robbing, kil<g ref="char:EOLhyphen"/>ing, and ſhedding of blood in the diſtraction of the poor, and eſpecially in the oppreſſion of the faithful, concerning whom the Name of God is blaſphemed; they ſhould no longer truſt to any of their falſe Prophets, who flatter and ſooth up every one in their party, <hi>Ieremiah</hi> 28. and eſpecially look no longer ſuperſicially with hardned hearts, and blinded eyes upon the hipocritical cunning ſlights of Satan, becauſe of the deſo<g ref="char:EOLhyphen"/>lation and fire that hath riſen from thence, as is manifeſt in the external diſtractions, and horrible ruins of Countries, which have been cauſed to break forth thus by the working of the Devil; but they ſhould conſi<g ref="char:EOLhyphen"/>der them ſeriouſly by entring deeply into their conſciences, that God may not have cauſe to multiply and enlarge the miſery and ſtormy tem<g ref="char:EOLhyphen"/>peſt of his fiery wrath, according as he hath begun upon him and other Potentates. <hi>Pſalm</hi> 137.</p>
+            <p>For the falſe Prophets,<note place="margin">
+                  <hi>Mat.</hi> 24.</note> who from the clear and plain teſtimonies, which for a long time have been revealed and brought to light, becauſe of their bewitching Babiloniſh doings,<note place="margin">
+                  <hi>Iſaiah</hi> 47.</note> ſhould have given place to the Spirit of God, or the Teſtimony of Jeſus Chriſt inwardly in themſelves, and yet have not grown ſober thereby,<note place="margin">2 <hi>Tim.</hi> 2. <hi>Zeph.</hi> 1.</note> nor ever deſired to acknowledg their cunning ſlights and abominations, nor conſidered the miſerable and deplorable condition which mankind is brought into, chiefly for their ſakes; but moreover do ſtill, according to the working of the Devil in<g ref="char:EOLhyphen"/>wardly in them, continually allure, intice,<note place="margin">2 <hi>Theſ.</hi> 2. <hi>Rev.</hi> 1.6. <hi>Romans</hi> 1. 2 <hi>Pet.</hi> 3. <hi>Mark</hi> 13.</note> and put on people to the fur<g ref="char:EOLhyphen"/>therance of all miſchief and wickedneſs: Theſe together with thoſe that uphold ſuch wicked doings with their braneadoes, ſhal be ſent and thrown into hell, where ſuch diſputings and making of parties by per<g ref="char:EOLhyphen"/>verting teachings will avail no more the ſtool or throne of the beaſt, and falſe Prophets. <hi>Revel.</hi> 16.19, 20.</p>
+            <p>Whoſoever they be that have always contemned and ſcorned the admonitions, warnings and threatnings of God,<note place="margin">
+                  <hi>Iſaiah</hi> 28. <hi>Epiſt. Iude. Mal.</hi> 3. 1 <hi>Theſ.</hi> 5. <hi>Pſalm</hi> 109. <hi>Zeph.</hi> 1.3. 2 <hi>Pet.</hi> 3.5.</note> and have made a laugh<g ref="char:EOLhyphen"/>ing ſtock of them, and reſiſt God inwardly in their hearts and conſcien<g ref="char:EOLhyphen"/>ces, with the ſorcery of their falſe Prophets, and wholly ſubject them<g ref="char:EOLhyphen"/>ſelves to the Devil, in this ruining deſolation, and deſtroying of the juſt, the poor and miſerable; they ſhall have only ſuch a deliverance from the day of wrath, <hi>Rom.</hi> 1. and from the fiery Judgment thereof, as their fellow ſcorners and deſpiſers in former times have had, whom God drowned in the deluge, and many other ways deſtroyed them,<note place="margin">
+                  <hi>Gen.</hi> 6.7.19.</note> and cut them off. The people and nations of this preſent and laſt world,
+<pb n="10" facs="tcp:116964:6"/>who heap ſin upon ſin,<note place="margin">
+                  <hi>Romans</hi> 1. <hi>Ier.</hi> 7.8. <hi>Ezek.</hi> 8.9. <hi>Iſaiah.</hi> 29. <hi>Colloſſ.</hi> 2. <hi>Acts</hi> 17. 1 <hi>Pet.</hi> 1.2. <hi>Mat.</hi> 15.23. <hi>Gal.</hi> 4. <hi>Joh.</hi> 4. 1 <hi>Tim.</hi> 2. <hi>Rom.</hi> 12. <hi>Phil.</hi> 2. <hi>Jer.</hi> 23. <hi>Iſai.</hi> 66. <hi>Pſal.</hi> 51. <hi>Iſa.</hi> 57. <hi>Eph.</hi> 5. 1 <hi>Pet.</hi> 4. <hi>James</hi> 4. <hi>Epheſ.</hi> 2. <hi>Epiſt. Jude. Syrach.</hi> 35. <hi>Pſal.</hi> 10.72.75 <hi>Amos</hi> 6.8. <hi>Romans</hi> 1. <hi>Iſaiah</hi> 8.28. <hi>Zeph.</hi> 1.3. <hi>Rev.</hi> 9.17.20 4 <hi>Eſd.</hi> 5. <hi>Iſaiah</hi> 1.5.29.59. 2 <hi>Tim.</hi> 3. <hi>Mat.</hi> 24.</note> and perſevere &amp; go on in their damnable courſe, for a while hitherto; they have not deceived God, but themſelves, by their outward Church matters or falſe worſhip of God, whereby they would fain he hidden in their flyneſs, or abominations from God, who is every where preſent in Spirit, and is not blind, nor doth regard to be ſerved in a wel adorned Temple of ſtone, or Churches, according to the accuſtomed traditions, and invented opinions: For all thoſe dwell and are in him, who are redeemed by Chriſt, and are built up and rooted in him, <hi>Col.</hi> 1.3. therefore he muſt not be ſerved ſuperficially and care<g ref="char:EOLhyphen"/>leſly, in a ſhew or in a cuſtommary manner; but in the inward ground of the ſoul the heart and conſcience in ſpirit and truth, with holy, pure, clean and upright thoughts, deſires and actions, which he himſelf work<g ref="char:EOLhyphen"/>eth by his word, and the power of his Spirit in the faithful: For he is not a God that is afar off, that ſtandeth in need of a Vicegerent; but he is ever filling heaven and earth, and dwelleth by his word in them that are of the contrite and humble ſpirit of grace, and looſe them the band of darkneſs, and the ſnares of death, who are ſuch as do not pur<g ref="char:EOLhyphen"/>poſely reſiſt God, nor knowingly perſiſt and go on in ſin: But to the proud, kiſt-necked, obſtinate, wrathful, envious, covetous and malicious, who live only according to the will of their fleſh, of the world, and of their reaſon, after their own luſts and deſires, looking after nothing but their own honor and glory, greatneſs and profit, and quite forget the miſerable, that lie in the duſt and aſhes of death; yea daily make it ſtill worſe and worſe by uſing their wicked power to maintain their per<g ref="char:EOLhyphen"/>verſe Government and vain doings, to the perdition of whole mankind: To ſuch he will be nothing elſe but a ſtone of offence, <hi>Rom.</hi> 9. 1 <hi>Pet.</hi> 2. and a conſuming fire of eternal burning. <hi>Iſaiah</hi> 33.47.50.65.66. and they ſhall be ſwallowed up in the bottomleſs pit, from whence ſuch damnable works have proceeded, where it will avail them but little, that they have proſpered in their unrighteouſneſs, tyranny, pernicious power and authority, to their own perdition and eternal torment of hell. <hi>Pſalm</hi> 82.</p>
+            <p>Therefore every one of what ſtate, dignity and authority ſoever they be,<note place="margin">
+                  <hi>Jer.</hi> 5.9. <hi>Wiſd.</hi> 2.12. <hi>Iſai.</hi> 49.60. <hi>Iſai.</hi> 3.42.50 59. 2 <hi>Cor.</hi> 4.</note> but eſpecially the Potentates, Rulers, Magiſtrates, and Officers, who have authority to rule others according to Conſcience, and ſhould be Cheriſhers and Nurſers of the Church or Congregation which God hath purchaſed with his blood, <hi>Act.</hi> 20. and who are not altogether held captive in blindneſs by the Devil, as to this horrible diſtraction, and ſnailed in the net or caught in his ſnare, they ought long ago to
+<pb n="11" facs="tcp:116964:6"/>have opened the inward Eyes of their Conſcience,<note place="margin">
+                  <hi>Ezek.</hi> 5.6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9.11.12.14.22.23.36. <hi>Col.</hi> 3. <hi>Ro<g ref="char:cmbAbbrStroke">̄</g>.</hi> 1. <hi>Mat.</hi> 24 <hi>Eph.</hi> 5. <hi>Luke</hi> 19.20 <hi>Rev.</hi> 6.12.22 <hi>Iſai.</hi> 5. <hi>Epiſt. Jude. Mat.</hi> 15. <hi>Acts</hi> 20. <hi>Mark</hi> 13. 1 <hi>Joh.</hi> 1.2.4 <hi>Epist. Jude.</hi>
+               </note> and have had a care ſometime to cleanſe their hearts chiefly from the inward abomination, <hi>viz.</hi> Covetouſneſs, Bravery, Pride, Subtilty, Circumvention, Force, Injury, Infidelity, Unrighteouſneſs, and all other the works of dark<g ref="char:EOLhyphen"/>nes; from whence exiſteth all outward perdition, <hi>viz.</hi> Robbery, Murther, Theft, for which nothing but death and the eternal damnation of hell is deſerved; that thereby ſome may be kept out of Hell, which now ſtandeth wide open with its jaws or ſoul, and be delivered from the bands of eternal blackneſs, and ſo might be pluckt out of the fire, and henceforth not ſuffer themſelves to be tyed and bound by humane Or<g ref="char:EOLhyphen"/>dinances and Traditions to thoſe men who preach perverſe doctrine, whereby they ſeduce the whole world, and ſet themſelves up to be the heads of the Churches among thoſe people who are not of the Congre<g ref="char:EOLhyphen"/>gation of God, every one promiſing Heaven to the adherence of their own Sect or Schiſm, whereas themſelves are but the ſlaves of perditi<g ref="char:EOLhyphen"/>on. 2 <hi>Pet.</hi> 2. Miniſters or Servants, 2 <hi>Cor.</hi> 11. Stewards or Deputies of Satan, 2 <hi>Theſ.</hi> 2.<note place="margin">
+                  <hi>Math.</hi> 3.13.23.24. <hi>Joel</hi> 2 1 <hi>Cor.</hi> 15. 1 <hi>Pet.</hi> 2.4. 1 <hi>Theſ.</hi> 5. <hi>Heb.</hi> 7.8.9.10.12.13. <hi>Eph.</hi> 1.5 <hi>Col.</hi> 1. 1 <hi>Cor.</hi> 6.7.</note> But according as every one acknowledgeth his long-practiſed wickedneſs and abomination, hath remorſe or repenting ſorrow for ſins, and miſdeeds, and in the inward ground of his heart or conſcience deſireth to denſe himſelf from them, to be ſober-minded, and henceforth reſolveth to keep himſelf meerly to Jeſus Chriſt, the only high Prieſt, Arch-Shepherd and Biſhop of the Soul that he may attain unto the univerſal or Catholique union or unity of the Body or Congregati<g ref="char:EOLhyphen"/>on where Chriſt only is the head of his Members, whom he hath redee<g ref="char:EOLhyphen"/>med with his blood, and delivered from the power of Darkneſs, and dearly bought to his eternal Kingdom, 1 <hi>Pet.</hi> 1.</p>
+            <p>For the true faithful are not Clergy or Laity, Spiritual or Temporal, after the manner of the world, pleaſing to this or the other party,<note place="margin">
+                  <hi>Rom.</hi> 1.16.</note> who by the vanity in their Conſciences are ſevered and departed from God, and have cut or ſent themſelves aſunder, <hi>Hoſea</hi> 10.<note place="margin">
+                  <hi>Eph.</hi> 4. 2 <hi>Cor.</hi> 10 1 <hi>Cor.</hi> 6 <hi>Joh.</hi> 16. <hi>Ro<g ref="char:cmbAbbrStroke">̄</g>.</hi> 8 1 <hi>Cor.</hi> 2.4.11 <hi>Epheſ.</hi> 4 <hi>Col.</hi> 2.3 1 <hi>Cor.</hi> 12.13 <hi>Rom.</hi> 12.13 <hi>Joh.</hi> 13.15.</note> But they are all one Spirit with God, according the inward obedience of Faith, ſo far as they do not reſiſt him, but overcome themſelves; they kill the doings of the fleſh by the power of the Spirit of Chriſt, and ſo in the Faith they bring forth the fruits of the Spirit, and judg all things ſpiritually: In this manner the body of Chriſt ſhould have been edified and built, ſo that always one member ſhould feel the ſufferings of his neighbors, or ſuffering fellow-members, by putting in the hearty compaſſion of the love of God, and ſhould take care for them, and take pity on their ne<g ref="char:EOLhyphen"/>ceſſities, with all goodneſs and well-doing, according to the Goſpel of
+<pb n="12" facs="tcp:116964:7"/>Chriſt,<note place="margin">
+                  <hi>Rev</hi> 10</note> and not in the manner as hitherto hath been <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old Babel, and as is ſtill practiſed more and more by the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Jer.</hi> 7. 8. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9 <hi>Ezek.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 14</note> who according to their Ceremoniall Church-<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our very ſtedfaſtly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with their hearts to their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rough garments <hi>Z<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and hold ſtiffly to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their miſdeeds; wherewith they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worry, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one another like dogs<g ref="char:punc">▪</g>
+               <note place="margin">4 <hi>Eſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 9.15 <hi>Eſa.</hi> 10.11.17.55. 56. 68. 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10.11 <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Rev.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. and devour one another like wilde beaſts, and perſecute one another with fire and ſword, killing and ruining one another<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther other regarding God in Heaven, nor Righteouſneſs in their damned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>James</hi> 5. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thoſe among them, who are as deſpiſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the dark, <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 12. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſheep ſcattered among wolves, cannot be known as to the outward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Ceremonies with which the hy<g ref="char:EOLhyphen"/>pocrites<note place="margin">
+                  <hi>Iſa.</hi> 1. 9. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Rom.</hi> 1. <hi>Iſa.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Mat.</hi> 5. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 19</note> and all the ungodly uſe to hide, colour and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ungodlineſs: but God, who ſeeth in ſecret, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the hearts and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Rev.</hi> 2. he knoweth them, <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 11. 12. 17. 23. and they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the light of their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Faith, their love and righteouſ<g ref="char:EOLhyphen"/>neſs ſhine forth, as God hath beſtowed his grace upon every one, <hi>Rom.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <note place="margin">5 <hi>Rom.</hi> 1 1 <hi>Joh.</hi> 3 4 <hi>Mat.</hi> 23. 24</note>But the world being ſo deeply drowned in wickedneſs, 1 <hi>Joh.</hi> 5. will only uphold it ſelf, and its gli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ering, vain and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doings in pomp; and therefore it will not acknowedg God in thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are his, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: but i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and perſecuteth them, becauſe they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the world, but expect another world or kingdom, <hi>To<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 2. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 2, 3. 5.<note place="margin">
+                  <hi>Heb.</hi>10. 11. 12. <hi>Col.</hi> 1. 3</note> for an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life and happineſs<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ingraft<g ref="char:EOLhyphen"/>ed through Chriſt, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to themſelues, 2 <hi>Cor.</hi> 5. but live to their Faith, <hi>H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. in Righteouſneſs, which is pleaſing to God, <hi>Rom.</hi> 1. 5. 10.<note place="margin">
+                  <hi>Rom.</hi> 5. 6. 14 <hi>Gab.</hi> 3. 5. <hi>Pſa.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Rev.</hi> 19. 21</note> And this is the moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Catholick and Apoſtolick Church, the Spouſe and body of Chriſt, or the Congregation of God, out of which there is no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Act.</hi> 4. to which he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or calleth all from the beginning of the world, as to the marriage of the Lamb, or new <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>And a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the humane body, except it be a two-headed Monſter, can<g ref="char:EOLhyphen"/>not have the lively motion and ſenſibility of its members from a diverſe head; and as a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, modeſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife cannot have the knowledg of ano<g ref="char:EOLhyphen"/>ther man, then her husband to whom ſhe is marryed, wihtout com<g ref="char:EOLhyphen"/>mitting adultery; So the true Catholick Chriſtian Church, or Spouſe of<note place="margin">
+                  <hi>Col.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>John</hi> 10 <hi>Eph.</hi> 1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Chriſt, can have no other viſible, or inviſible, or Eccleſiaſtical head, Church head, or Bridegroom, then only Chriſt, who is the only Paſtor of his Flock, and Savoiur of his Body, which is the Congregation; and
+<pb n="13" facs="tcp:116964:7"/>not as abſent, but as preſent, giveth the fulneſs of his grace,<note place="margin">
+                  <hi>Heb.</hi> 1.2.3.4 <hi>Eph.</hi> 3.4 <hi>Col.</hi> 1. <hi>Rev.</hi> 21 1 <hi>Cor.</hi> 3 <hi>Mat.</hi> 7.12 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1 <hi>Cor.</hi> 5 <hi>Rev.</hi> 12.20.22.</note> 
+               <hi>Joh.</hi> 1.7.12.17. 2 <hi>Pet.</hi> 1. to all his members, both ſmall and great, 1 <hi>Cor.</hi> 12. who make themſelves partakers of it in the faith, whether they be Kings, Princes, Teachers or Hearers, who according to the Goſpel of Chriſt, are rooted and built up in him, 1 <hi>Pet.</hi> 2. or planted in him as the branch of a vine, which is not dry and withered, <hi>Iohn</hi> 15. but bringeth forth fruit: for every regenerate, or new man, who walketh in the power and ſpirit of faith, and light of life, <hi>Iohn</hi> 3.8.12. and not being dead, <hi>Iſai.</hi> 26.28, he is to do in his eſtate, condition, office, and calling, or employment, that which is acceptable and pleaſing unto God, and beneficial and profitable to his neighbors, <hi>Mat.</hi> 7.<note place="margin">1 <hi>Pet.</hi> 2 1 <hi>Cor.</hi> 3.12 <hi>Eph.</hi> 2 1 <hi>Cor.</hi> 3.6 2 <hi>Cor</hi> 6 <hi>Rom.</hi> 12. 1 <hi>Theſ.</hi> 4.5 <hi>Iſa.</hi> 42.48 1 <hi>Pet.</hi> 2 <hi>Mat.</hi> 21 <hi>Mark.</hi> 12</note> and this is the precious foundation, or comer ſtone, upon which himſelf hath built his congregation and all its members; of which <hi>Peter</hi> and <hi>Paul</hi> were not heads, but living ſtones; and hath made it to be a ſpiritual habita<g ref="char:EOLhyphen"/>tion and Temple, wherein Chriſt himſelf, and not <hi>Peter,</hi> or any other Miniſter, member, or ſervant, is the bead, but the Lord himſelf, who dwelleth in the houſe, and ruleth by his ſpirit; for he will not give his honor to any other: This precious comer-ſtone, the ſuppoſed ſpiritual or Clergy have reſeated in their building, as the Phariſees and Scribes, or Scripture-learned, in former times did among the Jewiſh Nation, <hi>Pſa.</hi> 118. and lay another ſandy foundation, <hi>Lev.</hi> 6. 1 <hi>Cor.</hi> 3. <hi>Mat.</hi> 7. <hi>Acts</hi> 20.24. according to their own ſence and meaning in their opini<g ref="char:EOLhyphen"/>ons, in a perverted manner out of themſelves,<note place="margin">
+                  <hi>Iſa.</hi> 28 <hi>Epiſt. Jude. Jer.</hi> 5.7 <hi>Rev.</hi> 16 <hi>Gal.</hi> 5 1 <hi>Tim.</hi> 1.6 <hi>Dan.</hi> 8.11 <hi>Heb.</hi> 4. <hi>Pſa.</hi> 10.57.52.75 <hi>Iſa.</hi> 3.29.57 <hi>Heb.</hi> 11.</note> upon which every one built to himſelf a ſeveral Church of their own, with a pompious Crown or dreſs, that according to their thinking ſhould continue in this world ſtedfaſtly to the end, wherein yet the Devil hath ſet up his dominion and rule in their Conſciences; which building is turned into a Babel, and a houſe of conſuſed verbal contentions and diſputations, wherein they can no more underſtand one another, and now are come to their ruine and perdition: For there is ſtill another time at hand, <hi>Dan.</hi> 8.11. in the world, wherein thoſe that are ceaſed from the power, havock, tyranny of the wicked, and eſpecially thoſe that are gone out from the decent of the falſe Prophets, and their murthering ſouls and bodies, ſhall be delivered, <hi>Ezek.</hi> 13.22.34. But thoſe who according to the faith would come to God, and into his eternal Kingdom,<note place="margin">
+                  <hi>Rev.</hi> 21 2 <hi>Cor.</hi> 6 <hi>Joh.</hi> 1.8.12 <hi>Iſa.</hi> 42.60</note> or into the glory of the new Jeruſalem, they muſt here be a Temple or habitation of God; and for their ſalvation-ſake ſhould walk in the light, and eſpecially have reſpect to the glory of God, and the univerſal, tempo<g ref="char:EOLhyphen"/>ral, and eternal welfare of mankind; and in theſe preſent diſtractions
+<pb n="14" facs="tcp:116964:8"/>do their endeavor,<note place="margin">
+                  <hi>Rom.</hi> 9. <hi>Iſa.</hi> 10.28.59.61.62.63 2 <hi>Cor.</hi> 10. <hi>Pſa.</hi> 48.97 <hi>Jer.</hi> 10.30 <hi>Dan.</hi> 7.</note> that the ſpoyling deſtruction may be ſtayed, and that the righteous may be delivered. But all Heathens, and Kings, which will not help, and ſerve, and adminiſter for God, according to the inward obedience of Faith, that <hi>Sion</hi> may be built, they ſhall periſh temporally and eternally, as members of the abominable and horrible beaſt; and ſhall be ruined and utterly deſtroyed, <hi>Iſai.</hi> 60.</p>
+            <p>Now if the Emperor chiefly, and all other eminent perſons, do ſeri<g ref="char:EOLhyphen"/>ouſly and deeply enter into their hearts and conſciences, and ſo rightly conſider the teſtimony of God, in diſcovery of the knowledg of theſe preſent modern ſeducing doings of Babel, and eſpecially go out from the Idolatry and ſorcery of the Babyloniſh abomination, under which he with his fellows have committed ſpiritual whoredom for a long while, and deſiſt from thoſe deadly damned purpoſes, theſe baſe, falſe, pernici<g ref="char:EOLhyphen"/>ous thoughts, yea deviliſh doings, and cleanſe himſelf from other works of darkneſs, for which the wrath of God is gone forth over all the world, and deſire to grow ſober minded; and then he and they may expect grace from God ſo far as they do ſo, without any crafty preva<g ref="char:EOLhyphen"/>riation, fraud, deceit, or reſervation, to which God hath a piercing watchful eye and circumſpection, and will not be mocked or deceived in this buſineſs of the ſuppreſſing of the faithful ones.</p>
+            <p>For a civil, or worldly Magiſtrate, who is ordained from God to rule and govern, ſhould judg no otherwiſe but according to Righteouſ<g ref="char:EOLhyphen"/>neſs, for the welfare of the ſubjects, and the univerſal, temporal and eternal welfare of mankind; and eſpecially as this ſo long continued de<g ref="char:EOLhyphen"/>ſolating great neceſſity and miſery doth require, that the poor and mi<g ref="char:EOLhyphen"/>ſerable may be delivered from the power of the oppreſſors thereby: But not that the Elect of God ſhould be yet further condemned, judged, and abuſed, to bring them to temporal and eternal perdition, as it hath been for a long time hitherto, from whence ſo many great plagues, la<g ref="char:EOLhyphen"/>mentation and neceſſities have ariſen in the Roman Empire, and Ruine been brought upon one Country after another. But if the Emperors and they ſhould not regard theſe things, nor conſider how God proceeded in former times againſt others his fellows, King <hi>Pha<g ref="char:EOLhyphen"/>roah,</hi> and the King of <hi>Aſſyria</hi> and <hi>Babylon;</hi> where his name was ſo blaſphemed, and his people of <hi>Iſrael</hi> ſo ground, trodden under-foot, and vexed, who regarded not the mighty arm of the Lord, or the terrible deeds which God in former times, for that cauſe, ſhewed upon his Enemies, neither would they return and regard theſe
+<pb n="15" facs="tcp:116964:8"/>threatnings and plagues, or take them to heart, and conſider them: And if he alſo ſhould ſlight thoſe things which hitherto for his purpoſe a<g ref="char:EOLhyphen"/>gainſt God he hath ſo much experience of, and felt them by a living knowledg of them, then it is to be feared, that God will not only make an end of him and them, but that worſe things ſhall befall him and them, then in former times befel thoſe to whom ſuch deeds were not ſo known and teſtified to, as they have bin to him; for God will not have his admonitions, warnings and threatnings ſlightly paſſed over, though he be long ſuffering, and of great patience, for afterwards there will be no deliverance out of his hand.</p>
+            <p>Therefore if the Emperor with his Reformation, or afflicting of con<g ref="char:EOLhyphen"/>ſciences in all places and Counties, doth not leave it off and give it o<g ref="char:EOLhyphen"/>ver, and will not let thoſe Captives or priſoners go free, which are al<g ref="char:EOLhyphen"/>ready under the <hi>Babylonian</hi> yoak and abomination, and let every one enjoy the liberty of his conſcience, and doth not from the inward ground of his heart put away the deviliſh doings and practiſes of the forcerers the falſe Prophets, which they entice him to, or elſe God will deſtroy all that hath remained and bin hither to ſaved and preſerved, and will proceed ſtill further againſt them, and muſt be revenged on him and his fellows, and bring thoſe things upon his own head, both in ſoul and body, which he will have cauſe to repent of here in this life, and in the other Eternal.</p>
+            <p>Given</p>
+            <p>According to the Councel of the Lord,<note place="margin">
+                  <hi>Iſaiah</hi> 8.30. <hi>Mat.</hi> 11. 1 <hi>Cor.</hi> 1.15. <hi>Pſal.</hi> 89.119. <hi>Iſa.</hi> 5.51.59. <hi>Wiſdom</hi> 5. <hi>Dan.</hi> 7.12.</note> and according to the myſtery of the hidden Wiſdom of God, and his Eternal Divine Righteouſneſs, ac<g ref="char:EOLhyphen"/>cording to which, for the deliverance of his Elect, he willbring his Ene<g ref="char:EOLhyphen"/>mies, the oppoſers to an end. 2 <hi>Theſ.</hi> 1.2. <hi>Luke</hi> 17.18.21. <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> 83.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
